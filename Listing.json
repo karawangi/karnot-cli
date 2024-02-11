@@ -1,0 +1,27 @@
+
+{
+
+
+  "name": "qiqi",
+
+
+  "logo": "https://www.dropbox.com/scl/fi/30b6dpxbgj2qzho0o7nvi/Logo.jpg?rlkey=9m0uivpjaqhz4ctlfvafy4dm3&dl=0",
+
+
+  "rpc_url": "https://"23.94.44.135":9944",
+
+
+  "explorer_url": "https://"
+23.94.44.135
+":4000",
+
+
+  "metrics_endpoint": "https://"
+23.94.44.135
+":9615/metrics",
+
+
+  "id": "e363a076-172e-4881-8f6e-3d2b9ad423b6"
+
+
+}
